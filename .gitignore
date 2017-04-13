@@ -2,6 +2,7 @@
 npm-debug.log
 /public/js
 /public/javascript
+/mongodb*
 
 # IDE files
 .idea
